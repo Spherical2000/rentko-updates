@@ -1,2 +1,4 @@
-{"latest_version": "0.9.3x"}
-{"latest_critical_version": "0.9.3x"}
+{
+  "latest_version": "0.9.4",
+  "latest_critical_version": "0.9.3x"
+}
